@@ -33,7 +33,7 @@
     "ng2-toastr": "^4.1.2",
     "ngx-bootstrap": "^5.6.1",
     "ngx-toastr": "^12.0.1",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^5.5.1",
     "rxjs": "~6.5.4",
     "rxjs-compat": "^6.5.5",
     "tslib": "^1.10.0",
